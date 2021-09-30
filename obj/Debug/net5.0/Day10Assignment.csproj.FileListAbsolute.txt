@@ -1,0 +1,16 @@
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.exe
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.deps.json
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.runtimeconfig.json
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.runtimeconfig.dev.json
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\ref\Day10Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\bin\Debug\net5.0\Day10Assignment.pdb
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.csproj.AssemblyReference.cache
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.AssemblyInfoInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.AssemblyInfo.cs
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\ref\Day10Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.pdb
+C:\Users\SAI KUMAR\source\repos\Day10Assignment\obj\Debug\net5.0\Day10Assignment.genruntimeconfig.cache
